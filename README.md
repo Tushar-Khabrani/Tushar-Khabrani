@@ -68,16 +68,15 @@
 | [App Usage Behavior Analysis](https://github.com/Tushar-Khabrani/App-Usage-Behavior-Analysis) | Python · MySQL · K-Means | Digital Analytics | 1,249 users · 14 charts |
 | [Web Traffic Analysis](https://github.com/Tushar-Khabrani/Web-Traffic-Analysis) | Python | Digital Analytics | 2,006 sessions · 8 charts |
 | [Customer Behavior Analysis](https://github.com/Tushar-Khabrani/Customer-Behavior-Analysis) | Python · MySQL · K-Means | Retail | RFM · Segmentation |
+| [Retail Store Sales Analysis](https://github.com/Tushar-Khabrani/Retail-Store-Sales-Analysis) | Python · MySQL · Power BI | Retail | ₹6.06Cr · FY 2022–24 |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Khabrani&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Khabrani&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Tushar-Khabrani&theme=dark&hide_border=true" width="60%" />
 </p>
-
 ---
 
 ### 🤝 Open to Work
